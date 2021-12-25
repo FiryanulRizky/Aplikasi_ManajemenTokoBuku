@@ -1,5 +1,5 @@
 # Aplikasi_ManajemenTokoBuku
-Projek Akhir Semester Pemrograman Berorientasi Objek
+Projek Ganesha Bookshop Ubud 2019
 
 # Antarmuka Login
 user : Admin, password : Admin
