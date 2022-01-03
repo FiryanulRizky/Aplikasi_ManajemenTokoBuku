@@ -4,9 +4,6 @@ Projek Ganesha Bookshop Ubud 2019
 # Antarmuka Login
 user : Admin, password : Admin
 
-![Capture1](https://user-images.githubusercontent.com/60762912/105083884-85d5a280-5ad0-11eb-94fa-0c6832427f44.PNG)
-
-# Antarmuka Utama
 ![Capture2](https://user-images.githubusercontent.com/60762912/104845485-b969ce80-5910-11eb-93bb-0d4e48114b48.PNG)
 
 # Kasir
